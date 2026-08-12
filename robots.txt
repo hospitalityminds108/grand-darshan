@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: 
+Sitemap: https://granddarshanhotel.com/index.html/sitemap.xml
